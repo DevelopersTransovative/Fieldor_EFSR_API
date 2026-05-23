@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Global>
+	<TimeZone js="Etc/GMT+12" asp="Dateline Standard Time" sql="Dateline Standard Time"/>
+	<TimeZone js="Australia/Perth" asp="W. Australia Standard Time" sql="W. Australia Standard Time"/>
+	<TimeZone js="Australia/Eucla" asp="Aus Central W. Standard Time" sql="Aus Central W. Standard Time"/>
+	<TimeZone js="Australia/Adelaide" asp="Cen. Australia Standard Time" sql="Cen. Australia Standard Time"/>
+	<TimeZone js="Australia/Darwin" asp="AUS Central Standard Time" sql="AUS Central Standard Time"/>
+	<TimeZone js="Australia/Brisbane" asp="E. Australia Standard Time" sql="E. Australia Standard Time"/>
+	<TimeZone js="Australia/Sydney" asp="AUS Eastern Standard Time" sql="AUS Eastern Standard Time"/>
+	<TimeZone js="Australia/Lord_Howe" asp="Lord Howe Standard Time " sql="Lord Howe Standard Time"/>
+	<TimeZone js="Pacific/Norfolk" asp="Central Pacific Standard Time" sql="Central Pacific Standard Time"/>
+	<TimeZone js="Asia/Calcutta" asp="India Standard Time" sql="India Standard Time"/>
+	<TimeZone js="Pacific/Kiritimati" asp="Line Islands Standard Time" sql="Line Islands Standard Time"/>
+	<TimeZone js="Australia/Hobart" asp="E. Australia Standard Time" sql="E. Australia Standard Time"/>
+	<TimeZone js="Australia/Melbourne" asp="E. Australia Standard Time" sql="E. Australia Standard Time"/>
+	<TimeZone js="Australia/Melbourne" asp="E. Australia Standard Time" sql="E. Australia Standard Time"/>
+	<TimeZone js="Asia/Riyadh" asp="Arab Standard Time" sql="Middle East Standard Time"/>
+	<TimeZone js="Asia/Katmandu" asp="Nepal Standard Time" sql="Nepal Standard Time"/>
+
+	<TimeZone js="Pacific/Fiji" asp="Fiji Standard Time" sql="FIJI Standard Time"/>
+
+	<TimeZone js="Etc/GMT-12" asp="Fiji Standard Time" sql="FIJI Standard Time"/>
+
+	<TimeZone js="Asia/Singapore" asp="Singapore Standard Time" sql="Singapore Standard Time"/>
+
+
+	<TimeZone js="Europe/Istanbul" asp="Turkey Standard Time" sql="Turkey Standard Time"/>
+
+	<TimeZone js="Asia/Bangkok" asp="SE Asia Standard Time" sql="SE Asia Standard Time"/>
+
+
+</Global>
